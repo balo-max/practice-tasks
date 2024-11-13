@@ -125,10 +125,23 @@
 // orderDrink(drink);
 // orderDrink(drink2);
 
+// //TODO: 5 ===================================
+// напиши скрипт, якій виводить у консоль всі слова крім першого та останього
 
-const string = 'Our office is closed so we`re working from home today';
-// const mass = [];
+// const string = 'Our office is closed so we`re working from home today';
 
-// mass.push(string);
+// const mass = string.split(' ');
 
-console.log(string);
+// for (let i = 1; i < mass.length - 1; i++) {
+// console.log(mass[i]);
+// }
+
+// //TODO: 6 ===================================
+// Напиши скрипт пошуку найменшого числа у масиві. Код повинен працювати
+// для будь-якого масиву чисел. Використовуй цикл для розв'язання задачі.
+
+
+const values = [17, -10, 94, -30, 1, 23, -20];
+let min = values[0];
+
+for ()
